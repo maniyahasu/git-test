@@ -1,0 +1,11 @@
+{
+  "name": "git-testing",
+  "version": "1.0.0",
+  "description": "git testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasmukh Maniya",
+  "license": "ISC"
+}
