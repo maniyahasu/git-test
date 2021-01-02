@@ -1,2 +1,2 @@
-#Git test
-This is the git testing project 
+#TESTPROJECT
+This is the git testing project
